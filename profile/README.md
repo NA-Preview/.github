@@ -1,5 +1,5 @@
 ![NINEAPPLE STUDIO](assets/banner-superWide.png)
-<div style="text-align: center;">
+<div align="center">
 
 # Welcome to NINEAPPLE STUDIO!
 
