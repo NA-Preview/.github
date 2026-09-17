@@ -9,7 +9,7 @@
 
 <small>
 
-$\color{#999}{\text{©\,}}$ [Napple7724](https://github.com/Napple7724)$\color{#999}{\text{, All right reserved.}}$
+$\color{#999}{\text{©}}$ [Napple7724](https://github.com/Napple7724)$\color{#999}{\text{, All right reserved.}}$
 </small>
 
 </div>
