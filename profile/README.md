@@ -1,12 +1,15 @@
 ![NINEAPPLE STUDIO](assets/banner-superWide.png)
 <div align="center">
 
-# Welcome to NINEAPPLE STUDIO!
+# NINEAPPLE STUDIO
 
-### <a href="https://studio.nineapple.xyz" style="letter-spacing: 1px;">STUDIO.NINEAPPLE.XYZ</a>
+### [STUDIO.NINEAPPLE.XYZ](https://studio.nineapple.xyz)
 
 <br><br><br><br><br>
 
-<small style="color: #999;">© <a href="https://github.com/Napple7724" style="color: inherit;">Napple7724</a>, All right reserved.</small>
+<small>
+
+$\color{#999}{\texttt{©\,}}$ [$\color{#999}{\texttt{Napple7724}}$](https://github.com/Napple7724)$\color{#999}{\texttt{, All right reserved.}}$
+</small>
 
 </div>
